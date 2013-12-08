@@ -1,0 +1,23 @@
+{
+  "name": "concierge_site",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rhokbrisbane/concierge_site",
+  "authors": [
+    "Brad Parker <hi@bradparker.com>",
+    "Rowan Hogan <rowan@netengine.com.au"
+  ],
+  "description": "\"Dependancies for Concierge Site\"",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "source/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "trove": "*"
+  }
+}
